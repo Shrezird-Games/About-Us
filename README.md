@@ -1,2 +1,1 @@
-# .github
 No information provided
