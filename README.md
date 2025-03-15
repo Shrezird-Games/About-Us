@@ -1,1 +1,1 @@
-No information provided
+Shrezird Games is a very small independent game studio based in the United States. When we say small, we mean it, our main team consists of our Lead Developer/Owner shrezird, and our Lead Designer FoxSenpaii... that's it. Crazy right... right?! Our main game engine of choice is the 2D powerhouse known as GameMaker, yes that's right we only make 2D based projects... what were you expecting? 4D games with top-of-the-line supercomputer styled graphics? That's funny. Oh, you're serious?!
